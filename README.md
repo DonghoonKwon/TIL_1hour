@@ -13,8 +13,8 @@
 ## Archive
 
 - TLM
-    - [Lecture 4. Facility-Department Layout Planning]
-    - [Lecture 5. Group Technology]
+    - [Lecture 4. Facility-Department Layout Planning](https://github.com/DonghoonKwon/oneHour_study/blob/main/TLM/TLM-lecture4-23R2.md)
+    - [Lecture 5. Group Technology](https://github.com/DonghoonKwon/oneHour_study/blob/main/TLM/TLM-lecture5-23R2.md)
 
 - ALNS
     - [ALNS 기본 코드](https://github.com/N-Wouda/ALNS)
