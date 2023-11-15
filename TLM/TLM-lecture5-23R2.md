@@ -32,6 +32,17 @@ Group layout을 주되게 살펴보겠습니다.
 
 `celluar manufacturing`
 
+- Cellular manufacturing design(CMD)
+- CMD를 해야하는 이유
+    - throughput time 감소
+    - work-in-process 물품 감소
+    - 고객 주문에 대한 응답시간 감소
+    - move time 감소
+    - 단가 감소
+    - part(product) 품질 개선
+        - 전담하게 되고 잘못되어도 어디서 잘못되었는지 쉽게 추적가능
+    - 제조 융통성 증가
+
 
 
 ### Topic 3: Approaches for Group Technology
