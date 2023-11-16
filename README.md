@@ -1,9 +1,11 @@
 # 1 hour study Everyday
 
-매일 한 시간씩 공부하기
+- 매일 한 시간씩 공부하기
+- 기록의 힘은 대단합니다!
 
 
-[History]
+[History](https://github.com/DonghoonKwon/oneHour_study/blob/main/history.md)
+
 
 
 
