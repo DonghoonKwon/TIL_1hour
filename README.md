@@ -10,13 +10,13 @@ The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": I. A
 
 ## Archive
 
-- TLM
-    - [Lecture 4. Facility-Department Layout Planning](https://github.com/DonghoonKwon/oneHour_study/blob/main/TLM/TLM-lecture4-23R2.md)
-    - [Lecture 5. Group Technology](https://github.com/DonghoonKwon/oneHour_study/blob/main/TLM/TLM-lecture5-23R2.md)
+* TLM
+    * [Lecture 4. Facility-Department Layout Planning](https://github.com/DonghoonKwon/oneHour_study/blob/main/TLM/TLM-lecture4-23R2.md)
+    * [Lecture 5. Group Technology](https://github.com/DonghoonKwon/oneHour_study/blob/main/TLM/TLM-lecture5-23R2.md)
 
-- ALNS
-    - [ALNS 기본 코드](https://github.com/N-Wouda/ALNS)
+* ALNS
+    * [ALNS 기본 코드](https://github.com/N-Wouda/ALNS)
 
-- Literature Review
-    - [드론](https://github.com/DonghoonKwon/oneHour_study/blob/main/Literature%20review/001_drone.md)
+* Literature Review
+    * [드론](https://github.com/DonghoonKwon/oneHour_study/blob/main/Literature%20review/001_drone.md)
 
