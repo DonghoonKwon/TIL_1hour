@@ -6,7 +6,10 @@
 
 [History](https://github.com/DonghoonKwon/oneHour_study/blob/main/history.md)
 
+## 11월 3주차 이번주 음악
 
+The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": I. Allegro non molto
+[Youtube](https://youtu.be/A1bFIH7I8Do?si=gqOprNKHdlpk2Rih)
 
 
 ## Archive
