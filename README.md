@@ -3,7 +3,7 @@
 매일 한 시간씩 (뭐라도) 공부하고 기록하기 [History](https://github.com/DonghoonKwon/oneHour_study/blob/main/history.md)
 
 
-**Weekly Music Recommendation**
+**Weekly Music Recommendation**  
 The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": I. Allegro non molto
 [Youtube](https://youtu.be/A1bFIH7I8Do?si=gqOprNKHdlpk2Rih)
 
