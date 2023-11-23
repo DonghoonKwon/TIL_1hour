@@ -22,4 +22,7 @@
     - depot와 가까운 지점에서 node select 되는게 무슨 의미지?
 
 
-## TBA
+## Moadab, A., Farajzadeh, F., & Fatahi Valilai, O. (2022). Drone routing problem model for last-mile delivery using the public transportation capacity as moving charging stations. Scientific Reports, 12(1), 6361.
+
+- 트럭과 버스를 이용한 화물수송
+- 배터리 constraints를 고려함

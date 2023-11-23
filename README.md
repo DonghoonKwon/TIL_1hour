@@ -1,11 +1,12 @@
 # Study 1 hour everyday
 기록의 힘은 놀랍습니다.  
-매일 한 시간씩 (뭐라도) 공부하고 기록하기 [History](https://github.com/DonghoonKwon/oneHour_study/blob/main/history.md)
+매일 한 시간씩 (뭐라도) 공부하고 기록하기 [History](https://github.com/DonghoonKwon/oneHour_study/blob/main/record_history.md)
 
 
 **Weekly Music Recommendation**  
-The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": I. Allegro non molto
-[Youtube](https://youtu.be/A1bFIH7I8Do?si=gqOprNKHdlpk2Rih)
+
+History [Youtube](https://youtu.be/WaNdGDJOEKw?si=Oex_FUJgCvFmkd5z)
+
 
 
 ## Archive
