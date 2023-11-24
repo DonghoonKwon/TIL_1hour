@@ -43,6 +43,9 @@ Group layout을 주되게 살펴보겠습니다.
         - 전담하게 되고 잘못되어도 어디서 잘못되었는지 쉽게 추적가능
     - 제조 융통성 증가
 
+- 핵심: CMD 표를 구성하는 Parts x Machine matrix를 어떻게 정리해서 나타낼지
+    - 모으기
+
 
 
 ### Topic 3: Approaches for Group Technology
