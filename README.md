@@ -4,8 +4,7 @@
 
 
 **Weekly Music Recommendation**  
-
-History [Youtube](https://youtu.be/WaNdGDJOEKw?si=Oex_FUJgCvFmkd5z)
+Isao Sasaki - Sky Walker [Youtube](https://youtu.be/ugGXVp_9wy0?si=hNyheNE_CdqoVzrg)
 
 
 
@@ -20,4 +19,4 @@ History [Youtube](https://youtu.be/WaNdGDJOEKw?si=Oex_FUJgCvFmkd5z)
 
 * Literature Review
     * [드론](https://github.com/DonghoonKwon/oneHour_study/blob/main/Literature%20review/001_drone.md)
-
+    * [신선식품 배달](https://github.com/DonghoonKwon/oneHour_study/blob/main/Literature%20review/002_pershable_food_delivery.md)
