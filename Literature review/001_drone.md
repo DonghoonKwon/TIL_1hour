@@ -32,9 +32,9 @@
 
 - 트럭과 드론을 동시에 이용한 화물수송
 - 드론의 multiple customers 방문 고려
-    이때 parcel의 무게를 고려함
+    - 이때 parcel의 무게를 고려함
 - pickup and delivery
 - 목적함수
-    min total cost
+    - min total cost
 - 방법론
-    two-stage heuristic algorithm
+    - two-stage heuristic algorithm
