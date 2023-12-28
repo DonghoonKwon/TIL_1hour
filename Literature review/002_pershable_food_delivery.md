@@ -1,4 +1,4 @@
-# 논문 탐색(perishable food delivery, 신선식품 배송관련)
+# 신선식품 배송관련(perishable food delivery)과 관련된 문헌검토 내용입니다.
     
 ## Song, B. D., & Ko, Y. D. (2016).
 Song, B. D., & Ko, Y. D. (2016). A vehicle routing problem of both refrigerated-and general-type vehicles for perishable food products delivery. Journal of food engineering, 169, 61-71.
