@@ -26,3 +26,15 @@
 
 - 트럭과 버스를 이용한 화물수송
 - 배터리 constraints를 고려함
+
+
+## Meng, S., Guo, X., Li, D., & Liu, G. (2023). The multi-visit drone routing problem for pickup and delivery services. Transportation Research Part E: Logistics and Transportation Review, 169, 102990.
+
+- 트럭과 드론을 동시에 이용한 화물수송
+- 드론의 multiple customers 방문 고려
+    이때 parcel의 무게를 고려함
+- pickup and delivery
+- 목적함수
+    min total cost
+- 방법론
+    two-stage heuristic algorithm
