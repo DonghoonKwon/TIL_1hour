@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-12-29 17:12:44 by Eclipse SUMO duarouter Version 1.18.0
+<!-- generated on 2023-12-29 11:22:53 by Eclipse SUMO duarouter Version 1.18.0
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
 
     <input>
@@ -69,7 +69,7 @@
         <route edges="70707218 43947387 1120029197 42064105 E4 42064224 206489379 170605266 170605263"/>
     </vehicle>
     <vehicle id="pc2549" type="pc" depart="15.90" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc1351" type="pc" depart="16.08" departLane="free" departSpeed="max" fromTaz="10" toTaz="31">
         <route edges="42064236 170605264 170605269 206489382 43947390 42064232 1120029185 1120029186 E9 43947365"/>
@@ -105,7 +105,7 @@
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2523" type="pc" depart="19.73" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc4633" type="pc" depart="21.21" departLane="free" departSpeed="max" fromTaz="40" toTaz="41">
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
@@ -378,7 +378,7 @@
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
     </vehicle>
     <vehicle id="pc2544" type="pc" depart="74.54" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc4419" type="pc" depart="75.03" departLane="free" departSpeed="max" fromTaz="40" toTaz="41">
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
@@ -786,7 +786,7 @@
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
     </vehicle>
     <vehicle id="pc2558" type="pc" depart="174.70" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc4210" type="pc" depart="177.55" departLane="free" departSpeed="max" fromTaz="40" toTaz="41">
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
@@ -1290,7 +1290,7 @@
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2546" type="pc" depart="282.32" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc1944" type="pc" depart="283.80" departLane="free" departSpeed="max" fromTaz="20" toTaz="21">
         <route edges="70707218 43947387 1120029197 42064105 E4 42064224 206489379 170605266 170605263"/>
@@ -1482,7 +1482,7 @@
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2557" type="pc" depart="329.88" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2826" type="pc" depart="330.82" departLane="free" departSpeed="max" fromTaz="30" toTaz="31">
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
@@ -2334,7 +2334,7 @@
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
     </vehicle>
     <vehicle id="pc2526" type="pc" depart="517.47" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc4565" type="pc" depart="518.44" departLane="free" departSpeed="max" fromTaz="40" toTaz="41">
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
@@ -2424,7 +2424,7 @@
         <route edges="43948501 1118511056 1122897133 1120029195 1120029194 1120029193 1120029192 1120029190 1120029189 E2 E3 43947368 206489381"/>
     </vehicle>
     <vehicle id="pc2525" type="pc" depart="536.37" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2612" type="pc" depart="536.53" departLane="free" departSpeed="max" fromTaz="30" toTaz="11">
         <route edges="277654571 E7 E8 41844004 1120029190 1120029189 E2 E3 43947368 206489381"/>
@@ -2685,7 +2685,7 @@
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
     </vehicle>
     <vehicle id="pc2530" type="pc" depart="602.72" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2701" type="pc" depart="602.88" departLane="free" departSpeed="max" fromTaz="30" toTaz="21">
         <route edges="277654571 E7 E8 1120029191 1139168722 206489379 170605266 170605263"/>
@@ -2793,7 +2793,7 @@
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
     </vehicle>
     <vehicle id="pc2572" type="pc" depart="623.92" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc3672" type="pc" depart="624.02" departLane="free" departSpeed="max" fromTaz="30" toTaz="31">
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
@@ -3288,7 +3288,7 @@
         <route edges="70707218 43947387 1120029197 42064105 E4 42064224 206489379 170605266 170605263"/>
     </vehicle>
     <vehicle id="pc2535" type="pc" depart="721.13" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2851" type="pc" depart="721.54" departLane="free" departSpeed="max" fromTaz="30" toTaz="31">
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
@@ -3849,7 +3849,7 @@
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2559" type="pc" depart="849.83" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2302" type="pc" depart="850.07" departLane="free" departSpeed="max" fromTaz="20" toTaz="21">
         <route edges="70707218 43947387 1120029197 42064105 E4 42064224 206489379 170605266 170605263"/>
@@ -3858,7 +3858,7 @@
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
     </vehicle>
     <vehicle id="pc2550" type="pc" depart="851.89" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2113" type="pc" depart="851.90" departLane="free" departSpeed="max" fromTaz="20" toTaz="21">
         <route edges="70707218 43947387 1120029197 42064105 E4 42064224 206489379 170605266 170605263"/>
@@ -4005,7 +4005,7 @@
         <route edges="70707218 43947387 1120029197 42064105 E4 42064224 206489379 170605266 170605263"/>
     </vehicle>
     <vehicle id="pc2548" type="pc" depart="879.89" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2765" type="pc" depart="879.94" departLane="free" departSpeed="max" fromTaz="30" toTaz="31">
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
@@ -4071,7 +4071,7 @@
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
     </vehicle>
     <vehicle id="pc2556" type="pc" depart="901.14" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2681" type="pc" depart="901.17" departLane="free" departSpeed="max" fromTaz="30" toTaz="21">
         <route edges="277654571 E7 E8 1120029191 1139168722 206489379 170605266 170605263"/>
@@ -4365,7 +4365,7 @@
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
     </vehicle>
     <vehicle id="pc2552" type="pc" depart="963.54" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc5186" type="pc" depart="964.31" departLane="free" departSpeed="max" fromTaz="40" toTaz="41">
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
@@ -5106,7 +5106,7 @@
         <route edges="43948501 1118511056 1122897133 1120029195 1120029194 1120029193 1120029192 1120029190 1120029189 E2 E3 43947368 206489381"/>
     </vehicle>
     <vehicle id="pc2573" type="pc" depart="1135.56" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc4935" type="pc" depart="1136.09" departLane="free" departSpeed="max" fromTaz="40" toTaz="41">
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
@@ -5190,7 +5190,7 @@
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2562" type="pc" depart="1149.82" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc1558" type="pc" depart="1151.04" departLane="free" departSpeed="max" fromTaz="20" toTaz="21">
         <route edges="70707218 43947387 1120029197 42064105 E4 42064224 206489379 170605266 170605263"/>
@@ -5220,7 +5220,7 @@
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2551" type="pc" depart="1156.79" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc591" type="pc" depart="1157.59" departLane="free" departSpeed="max" fromTaz="10" toTaz="11">
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
@@ -5622,7 +5622,7 @@
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
     </vehicle>
     <vehicle id="pc2533" type="pc" depart="1238.86" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2445" type="pc" depart="1239.18" departLane="free" departSpeed="max" fromTaz="20" toTaz="31">
         <route edges="70707218 43947387 1120029197 1120029181 1120029186 E9 43947365"/>
@@ -5631,13 +5631,13 @@
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2521" type="pc" depart="1239.88" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc5211" type="pc" depart="1240.65" departLane="free" departSpeed="max" fromTaz="40" toTaz="41">
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2570" type="pc" depart="1242.51" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc4382" type="pc" depart="1242.67" departLane="free" departSpeed="max" fromTaz="40" toTaz="41">
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
@@ -5706,7 +5706,7 @@
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
     </vehicle>
     <vehicle id="pc2543" type="pc" depart="1257.92" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2224" type="pc" depart="1258.61" departLane="free" departSpeed="max" fromTaz="20" toTaz="21">
         <route edges="70707218 43947387 1120029197 42064105 E4 42064224 206489379 170605266 170605263"/>
@@ -5763,7 +5763,7 @@
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
     </vehicle>
     <vehicle id="pc2571" type="pc" depart="1272.35" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc5048" type="pc" depart="1272.35" departLane="free" departSpeed="max" fromTaz="40" toTaz="41">
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
@@ -5886,7 +5886,7 @@
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
     </vehicle>
     <vehicle id="pc2563" type="pc" depart="1297.07" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc227" type="pc" depart="1299.24" departLane="free" departSpeed="max" fromTaz="10" toTaz="11">
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
@@ -6111,7 +6111,7 @@
         <route edges="70707218 43947387 1120029197 1120029181 1120029186 E9 43947365"/>
     </vehicle>
     <vehicle id="pc2527" type="pc" depart="1343.85" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc804" type="pc" depart="1344.82" departLane="free" departSpeed="max" fromTaz="10" toTaz="11">
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
@@ -6225,7 +6225,7 @@
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
     </vehicle>
     <vehicle id="pc2565" type="pc" depart="1366.19" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc4654" type="pc" depart="1366.95" departLane="free" departSpeed="max" fromTaz="40" toTaz="41">
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
@@ -6345,7 +6345,7 @@
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2542" type="pc" depart="1399.12" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc5362" type="pc" depart="1399.30" departLane="free" departSpeed="max" fromTaz="40" toTaz="41">
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
@@ -6411,7 +6411,7 @@
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2547" type="pc" depart="1410.33" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc1824" type="pc" depart="1410.37" departLane="free" departSpeed="max" fromTaz="20" toTaz="21">
         <route edges="70707218 43947387 1120029197 42064105 E4 42064224 206489379 170605266 170605263"/>
@@ -6450,7 +6450,7 @@
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
     </vehicle>
     <vehicle id="pc2560" type="pc" depart="1420.66" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc3294" type="pc" depart="1421.18" departLane="free" departSpeed="max" fromTaz="30" toTaz="31">
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
@@ -7254,7 +7254,7 @@
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
     </vehicle>
     <vehicle id="pc2567" type="pc" depart="1595.50" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc5215" type="pc" depart="1595.72" departLane="free" departSpeed="max" fromTaz="40" toTaz="41">
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
@@ -7293,7 +7293,7 @@
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2555" type="pc" depart="1602.29" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc3993" type="pc" depart="1602.29" departLane="free" departSpeed="max" fromTaz="40" toTaz="11">
         <route edges="43948501 1118511056 1122897133 1120029195 1120029194 1120029193 1120029192 1120029190 1120029189 E2 E3 43947368 206489381"/>
@@ -7590,7 +7590,7 @@
         <route edges="70707218 43947387 1120029197 42064105 E4 42064224 206489379 170605266 170605263"/>
     </vehicle>
     <vehicle id="pc2532" type="pc" depart="1672.76" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc4716" type="pc" depart="1673.25" departLane="free" departSpeed="max" fromTaz="40" toTaz="41">
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
@@ -9444,7 +9444,7 @@
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
     </vehicle>
     <vehicle id="pc2545" type="pc" depart="2104.03" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc5054" type="pc" depart="2104.26" departLane="free" departSpeed="max" fromTaz="40" toTaz="41">
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
@@ -10038,7 +10038,7 @@
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
     </vehicle>
     <vehicle id="pc2534" type="pc" depart="2240.46" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc3200" type="pc" depart="2240.68" departLane="free" departSpeed="max" fromTaz="30" toTaz="31">
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
@@ -10767,7 +10767,7 @@
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
     </vehicle>
     <vehicle id="pc2569" type="pc" depart="2394.86" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc4184" type="pc" depart="2396.15" departLane="free" departSpeed="max" fromTaz="40" toTaz="41">
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
@@ -11454,7 +11454,7 @@
         <route edges="42064236 170605264 170605269 1120029182 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2540" type="pc" depart="2547.32" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc446" type="pc" depart="2547.60" departLane="free" departSpeed="max" fromTaz="10" toTaz="11">
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
@@ -11688,7 +11688,7 @@
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2561" type="pc" depart="2589.65" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2693" type="pc" depart="2590.65" departLane="free" departSpeed="max" fromTaz="30" toTaz="21">
         <route edges="277654571 E7 E8 1120029191 1139168722 206489379 170605266 170605263"/>
@@ -11709,7 +11709,7 @@
         <route edges="70707218 43947387 1120029197 42064105 E4 42064224 206489379 170605266 170605263"/>
     </vehicle>
     <vehicle id="pc2529" type="pc" depart="2592.95" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2917" type="pc" depart="2593.55" departLane="free" departSpeed="max" fromTaz="30" toTaz="31">
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
@@ -11952,7 +11952,7 @@
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2566" type="pc" depart="2639.50" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2143" type="pc" depart="2639.62" departLane="free" departSpeed="max" fromTaz="20" toTaz="21">
         <route edges="70707218 43947387 1120029197 42064105 E4 42064224 206489379 170605266 170605263"/>
@@ -12084,7 +12084,7 @@
         <route edges="43948501 1118511056 1120029196 1139168722 206489379 170605266 170605263"/>
     </vehicle>
     <vehicle id="pc2524" type="pc" depart="2672.07" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc3481" type="pc" depart="2672.13" departLane="free" departSpeed="max" fromTaz="30" toTaz="31">
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
@@ -12318,7 +12318,7 @@
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
     </vehicle>
     <vehicle id="pc2531" type="pc" depart="2718.42" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc1222" type="pc" depart="2719.00" departLane="free" departSpeed="max" fromTaz="10" toTaz="11">
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
@@ -12612,7 +12612,7 @@
         <route edges="70707218 43947387 1120029197 42064105 E4 42064224 206489379 170605266 170605263"/>
     </vehicle>
     <vehicle id="pc2554" type="pc" depart="2782.38" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc3911" type="pc" depart="2782.89" departLane="free" departSpeed="max" fromTaz="30" toTaz="31">
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
@@ -12666,7 +12666,7 @@
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2520" type="pc" depart="2796.31" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc1118" type="pc" depart="2796.40" departLane="free" departSpeed="max" fromTaz="10" toTaz="11">
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
@@ -12705,7 +12705,7 @@
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
     </vehicle>
     <vehicle id="pc2553" type="pc" depart="2804.12" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc1469" type="pc" depart="2804.85" departLane="free" departSpeed="max" fromTaz="20" toTaz="21">
         <route edges="70707218 43947387 1120029197 42064105 E4 42064224 206489379 170605266 170605263"/>
@@ -12903,7 +12903,7 @@
         <route edges="70707218 43947387 1120029197 42064105 E4 42064224 206489379 170605266 170605263"/>
     </vehicle>
     <vehicle id="pc2537" type="pc" depart="2848.83" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc1251" type="pc" depart="2850.31" departLane="free" departSpeed="max" fromTaz="10" toTaz="31">
         <route edges="42064236 170605264 170605269 206489382 43947390 42064232 1120029185 1120029186 E9 43947365"/>
@@ -13209,7 +13209,7 @@
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
     </vehicle>
     <vehicle id="pc2528" type="pc" depart="2926.85" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc590" type="pc" depart="2926.95" departLane="free" departSpeed="max" fromTaz="10" toTaz="11">
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
@@ -13983,7 +13983,7 @@
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2574" type="pc" depart="3073.52" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc919" type="pc" depart="3074.01" departLane="free" departSpeed="max" fromTaz="10" toTaz="11">
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
@@ -14205,7 +14205,7 @@
         <route edges="277654571 E7 E8 1120029191 1139168722 206489379 170605266 170605263"/>
     </vehicle>
     <vehicle id="pc2541" type="pc" depart="3116.23" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc4929" type="pc" depart="3116.59" departLane="free" departSpeed="max" fromTaz="40" toTaz="41">
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
@@ -14715,7 +14715,7 @@
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
     </vehicle>
     <vehicle id="pc2538" type="pc" depart="3235.26" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc5168" type="pc" depart="3235.40" departLane="free" departSpeed="max" fromTaz="40" toTaz="41">
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
@@ -14814,7 +14814,7 @@
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
     </vehicle>
     <vehicle id="pc2568" type="pc" depart="3255.20" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc5341" type="pc" depart="3255.53" departLane="free" departSpeed="max" fromTaz="40" toTaz="41">
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
@@ -14976,7 +14976,7 @@
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
     </vehicle>
     <vehicle id="pc2564" type="pc" depart="3285.93" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc1387" type="pc" depart="3287.34" departLane="free" departSpeed="max" fromTaz="10" toTaz="41">
         <route edges="42064236 170605264 170605269 1120029182 1120029183 43947369#1 170601197"/>
@@ -15270,7 +15270,7 @@
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
     </vehicle>
     <vehicle id="pc2536" type="pc" depart="3347.95" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc3676" type="pc" depart="3347.98" departLane="free" departSpeed="max" fromTaz="30" toTaz="31">
         <route edges="277654571 170601193 43947396 1125632598 43947365"/>
@@ -15558,7 +15558,7 @@
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc2539" type="pc" depart="3405.18" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc192" type="pc" depart="3405.48" departLane="free" departSpeed="max" fromTaz="10" toTaz="11">
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
@@ -15933,7 +15933,7 @@
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
     </vehicle>
     <vehicle id="pc2522" type="pc" depart="3499.44" departLane="free" departSpeed="max" fromTaz="20" toTaz="41">
-        <route edges="70707218 43947387 1120029197 42064105 E4 1120029184 1120029183 43947369#1 170601197"/>
+        <route edges="70707218 43947387 1120029197 42064105 E4 E6 1120029184 1120029183 43947369#1 170601197"/>
     </vehicle>
     <vehicle id="pc4187" type="pc" depart="3500.79" departLane="free" departSpeed="max" fromTaz="40" toTaz="41">
         <route edges="43948501 660731151 43947385 43947369#0 43947369#1 170601197"/>
