@@ -1,6 +1,5 @@
 # Study 1 hour everyday
 기록의 힘은 놀랍습니다.  
-매일 한 시간씩 (뭐라도) 공부하고 기록하기
 
 **Weekly Music Recommendation**  
 
