@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-04-12 15:12:15 by Eclipse SUMO GUI Version 1.19.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Users\TLSYSLAB_3_ADMIN\Documents\Git\TIL_1hour\SUMO\95_bottleneck\test.net.xml"/>
+        <route-files value="C:\Users\TLSYSLAB_3_ADMIN\Documents\Git\TIL_1hour\SUMO\95_bottleneck\route.rou.xml"/>
+        <additional-files value="C:\Users\TLSYSLAB_3_ADMIN\Documents\Git\TIL_1hour\SUMO\95_bottleneck\additional.add.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+
+</configuration>
+-->
+
+<meandata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/meandata_file.xsd">
+    <interval begin="0.00" end="936.00" id="boMun">
+        <edge id="E0" sampledSeconds="29355.27" traveltime="29.90" overlapTraveltime="30.35" density="154.04" laneDensity="51.35" occupancy="25.48" waitingTime="2422.00" timeLoss="14773.86" speed="6.87" speedRelative="0.49" departed="1013" arrived="0" entered="0" left="976" laneChangedFrom="563" laneChangedTo="563"/>
+        <edge id="E1" sampledSeconds="18838.28" traveltime="19.22" overlapTraveltime="19.61" density="90.71" laneDensity="45.35" occupancy="22.26" waitingTime="0.00" timeLoss="3083.20" speed="11.57" speedRelative="0.83" departed="0" arrived="955" entered="976" left="0" laneChangedFrom="7" laneChangedTo="7"/>
+    </interval>
+</meandata>
