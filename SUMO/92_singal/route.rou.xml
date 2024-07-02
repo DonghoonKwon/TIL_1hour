@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-12-29 17:12:44 by Eclipse SUMO duarouter Version 1.18.0
+<!-- generated on 2024-05-29 17:06:59 by Eclipse SUMO duarouter Version 1.19.0
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
 
     <input>
@@ -16,7 +16,7 @@
 -->
 
 <routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
-    <vType id="pc" length="5.00" maxSpeed="55.55" vClass="passenger" laneChangeModel="LC2013" lcStrategic="0" lcCooperative="1" lcSpeedGain="10" lcKeepRight="0" lcAssertive="1" lcOvertakeRight="0.9999" accel="2.6" decel="4.5" sigma="0.3"/>
+    <vType id="pc" length="5.00" maxSpeed="55.55" vClass="passenger" laneChangeModel="LC2013" lcStrategic="0" lcCooperative="100000" lcSpeedGain="10000" lcKeepRight="0" lcAssertive="1" lcOvertakeRight="0.9999" accel="2.6" decel="4.5" sigma="0.3"/>
     <vehicle id="pc63" type="pc" depart="0.79" departLane="free" departSpeed="max" fromTaz="10" toTaz="11">
         <route edges="42064236 170605264 170605269 206489382 43947390 42064235 277653336 206489380 43947382 1120029187 43947368 206489381"/>
     </vehicle>
