@@ -1,13 +1,3 @@
-# Study 1 hour everyday
-기록의 힘은 놀랍습니다.  
-
-**Weekly Music Recommendation**  
-
-Jumping without moving by Oriental Express [Youtube](https://youtu.be/HR3-GQxGlJE?si=0bxps3VzIa4VH08z)
-
-
-
-
 ## Archive
 
 * TLM
